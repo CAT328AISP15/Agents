@@ -23,4 +23,6 @@ Extras: include images (ie, landscape), finite state machines, path finding libr
 
 - movement
 
+- 2 of the 7 above listed aspects
+
 
