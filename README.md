@@ -21,6 +21,8 @@ Extras: include images (ie, landscape), finite state machines, path finding libr
 
 - development of integral assets
 
+- pitch statement (3-4 sentences, describing your game)
+
 - movement
 
 - 2 of the 7 above listed aspects
